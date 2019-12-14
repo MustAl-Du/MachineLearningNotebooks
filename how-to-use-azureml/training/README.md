@@ -8,5 +8,6 @@ Follow these sample notebooks to learn:
 4. [Train on ML Compute](train-on-amlcompute): train a model using an ML Compute cluster as compute target.
 5. [Train in an HDI Spark cluster](train-in-spark): train a Spark ML model using an HDInsight Spark cluster as compute target.
 6. [Train and hyperparameter tune on Iris Dataset with Scikit-learn](train-hyperparameter-tune-deploy-with-sklearn): train a model using the Scikit-learn estimator and tune hyperparameters with Hyperdrive.
+7. [Train within notebook for PowerBI](train-within-notebook-for-PowerBI): train a simple scikit-learn model using the Jupyter kernel and deploy the model to Azure Container Service with the Swagger implementation to be consumed in PowerBI.
 
  ![Impressions](https://PixelServer20190423114238.azurewebsites.net/api/impressions/MachineLearningNotebooks/how-to-use-azureml/training/README.png)
